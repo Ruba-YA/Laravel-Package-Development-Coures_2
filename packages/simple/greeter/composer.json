@@ -1,0 +1,17 @@
+{
+    "name": "simple/greeter",
+    "description": "Simple package for learning",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Simple\\Greeter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ruba"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
